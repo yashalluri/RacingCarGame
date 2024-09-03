@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ButtonOption.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LapComplete.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LapTimeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Vehicles\Car\Scripts\CarController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraStable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FinishRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RaceFinish.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ButtonOption.cs" Line="27" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
